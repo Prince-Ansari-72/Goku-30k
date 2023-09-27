@@ -25,7 +25,7 @@ async def start(client, message):
         buttons = [[
                     InlineKeyboardButton('⤬ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ⤬', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
                 ],[
-                    InlineKeyboardButton('👻 ᴍᴏᴠɪᴇ ᴄʜᴀɴɴᴇʟ', url="https://t.me/i_Movieee"),
+                    InlineKeyboardButton('👻 ᴍᴏᴠɪᴇ ᴄʜᴀɴɴᴇʟ', url="https://t.me/Moviesbank_Corporation"),
                     InlineKeyboardButton('🫨 ᴍᴏᴠɪᴇ ɢʀᴏᴜᴘ', url=GRP_LNK)
                 ],[
                     InlineKeyboardButton('🔻 ᴊᴏɪɴ ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ 🔻', url=CHNL_LNK)
@@ -45,11 +45,11 @@ async def start(client, message):
         buttons = [[
                     InlineKeyboardButton('⤬ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ⤬', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
                 ],[
-                    InlineKeyboardButton('🍂ᴜᴘᴅᴀᴛᴇ 🍂', url=CHNL_LNK),
-                    InlineKeyboardButton('🫨 ᴍᴏᴠɪᴇ ɢʀᴏᴜᴘ', url=GRP_LNK)
+                    InlineKeyboardButton('⚜️ ᴜᴘᴅᴀᴛᴇ ⚜️', url=CHNL_LNK),
+                    InlineKeyboardButton('🍿 ᴍᴏᴠɪᴇ ɢʀᴏᴜᴘ 🍿', url=GRP_LNK)
                 ],[
-                    InlineKeyboardButton('👻 ʜᴇʟᴘ', callback_data='help'),
-                    InlineKeyboardButton('👾 ᴀʙᴏᴜᴛ', callback_data='about')
+                    InlineKeyboardButton('🎭 ʜᴇʟᴘ 🎭', callback_data='help'),
+                    InlineKeyboardButton('🔰 ᴀʙᴏᴜᴛ 🔰', callback_data='about')
                 ],[
                     InlineKeyboardButton('💰 ᴇᴀʀɴ ᴍᴏɴᴇʏ ᴡɪᴛʜ ʙᴏᴛ 💸', callback_data="shortlink_info")
                   ]]
@@ -93,11 +93,11 @@ async def start(client, message):
         buttons = [[
                     InlineKeyboardButton('⤬ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ⤬', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
                 ],[
-                    InlineKeyboardButton('🍂 ᴜᴘᴅᴀᴛᴇ🍂', url=CHNL_LNK),
-                    InlineKeyboardButton('🫨 ᴍᴏᴠɪᴇ ɢʀᴏᴜᴘ', url=GRP_LNK)
+                    InlineKeyboardButton('⚜️ ᴜᴘᴅᴀᴛᴇ ⚜️', url=CHNL_LNK),
+                    InlineKeyboardButton('🍿 ᴍᴏᴠɪᴇ ɢʀᴏᴜᴘ 🍿', url=GRP_LNK)
                 ],[
-                    InlineKeyboardButton('👻 ʜᴇʟᴘ', callback_data='help'),
-                    InlineKeyboardButton('👾 ʜᴇʟᴘ', callback_data='about')
+                    InlineKeyboardButton('🎭 ʜᴇʟᴘ 🎭', callback_data='help'),
+                    InlineKeyboardButton('🔰 ʜᴇʟᴘ 🔰', callback_data='about')
                 ],[
                     InlineKeyboardButton('💰 ᴇᴀʀɴ ᴍᴏɴᴇʏ ᴡɪᴛʜ ʙᴏᴛ 💸', callback_data="shortlink_info")
                   ]]
@@ -265,7 +265,7 @@ async def start(client, message):
                     [
                         InlineKeyboardButton('📁 ᴍᴏᴠɪᴇ ᴅᴏᴡɴʟᴏᴀᴅ ʟɪɴᴋ 📁', url=g)
                     ], [
-                        InlineKeyboardButton('🤔 Hᴏᴡ Tᴏ Dᴏᴡɴʟᴏᴀᴅ 🤔', url=await get_tutorial(chat_id))
+                        InlineKeyboardButton('❓ Hᴏᴡ Tᴏ Dᴏᴡɴʟᴏᴀᴅ ❓', url=await get_tutorial(chat_id))
                     ]
                 ]
             )
@@ -286,7 +286,7 @@ async def start(client, message):
                     [
                         InlineKeyboardButton('📂 ᴍᴏᴠɪᴇ ᴅᴏᴡɴʟᴏᴀᴅ ʟɪɴᴋ 📂', url=g)
                     ], [
-                        InlineKeyboardButton('🤔 Hᴏᴡ Tᴏ Dᴏᴡɴʟᴏᴀᴅ 🤔', url=await get_tutorial(chat_id))
+                        InlineKeyboardButton('❓ Hᴏᴡ Tᴏ Dᴏᴡɴʟᴏᴀᴅ ❓', url=await get_tutorial(chat_id))
                     ]
                 ]
             )
@@ -361,7 +361,7 @@ async def start(client, message):
                         [
                             InlineKeyboardButton('📂 ᴍᴏᴠɪᴇ ᴅᴏᴡɴʟᴏᴀᴅ ʟɪɴᴋ 📂', url=g)
                         ], [
-                            InlineKeyboardButton('🤔 Hᴏᴡ Tᴏ Dᴏᴡɴʟᴏᴀᴅ 🤔', url=await get_tutorial(chat_id))
+                            InlineKeyboardButton('❓ Hᴏᴡ Tᴏ Dᴏᴡɴʟᴏᴀᴅ ❓', url=await get_tutorial(chat_id))
                         ]
                     ]
                 )
